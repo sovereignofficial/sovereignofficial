@@ -3,8 +3,8 @@
 
 I'm a Software Developer with a passion for creating dynamic websites. I specialize in frontend technologies such as:
 
-* ![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js)
-* ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+ ![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js)
+ ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 And I'm proficient in various backend technologies including:
 
