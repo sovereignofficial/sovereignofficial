@@ -8,14 +8,14 @@ I'm a Software Developer with a passion for creating dynamic websites. I special
 
 And I'm proficient in various backend technologies including:
 
-* ![NodeDotJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-* ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-* ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-* ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-* ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-* ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
-* ![ASP](https://img.shields.io/badge/-ASP-black?style=flat-square&logo=asp.net)
+ ![NodeDotJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+ ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+ ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+ ![ASP](https://img.shields.io/badge/-ASP-black?style=flat-square&logo=asp.net)
 
 I also have experience with state management tools like:
 
