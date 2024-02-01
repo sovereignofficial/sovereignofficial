@@ -1,70 +1,42 @@
 # Hi, I'm Egemen Akdan 👋
 ![Profile views](https://gpvc.arturio.dev/sovereignofficial) ![GitHub followers](https://img.shields.io/github/followers/sovereignofficial?style=social)
 
-I'm a Software Developer who loves to turn ideas into dynamic websites. I'm proficient in Next.js and React, and I thrive on crafting user-friendly solutions. I am currently studying Computer Science at Menedżerska Akademia Nauk Stosowanych w Warszawie.
+I'm a Software Developer with a passion for creating dynamic websites. I specialize in frontend technologies such as:
 
-## 🔭 I’m currently working on
-* [Reedee](https://reedee.vercel.app) - A blazing fast AI-enhanced PDF Reader with PWA support.
-* [Innsight AI](https://innsight-ai.vercel.app/) - An AI powered resort hotel business management app for hotel employees.
-* [Movieverse](https://movieverse-mu.vercel.app) - An interactive entertainment platform that offers personalized movie recommendations.
+* ![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js)
+* ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-## 🌱 I’m currently learning
-* TypeScript
-* Node.js
-* MongoDB
-* Postgres
-* MySQL
-* GraphQL
-* Express.js
-* Supabase
-* ASP
+And I'm proficient in various backend technologies including:
 
-## 📫 How to reach me
-* Email: egemenvkdvn35@gmail.com
-* LinkedIn: https://www.linkedin.com/in/egemenakdan/
-* Facebook: https://www.facebook.com/profile.php?id=100073223918748
+* ![NodeDotJs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+* ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+* ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+* ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+* ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+* ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+* ![ASP](https://img.shields.io/badge/-ASP-black?style=flat-square&logo=asp.net)
 
-## 🚀 My Certifications
-* The Ultimate React Course 2023: React, Redux & More
-* Typescript Bootcamp: Beginner To Advanced (2023 Edition)
-* Veri Yapıları ve Algoritmalar: Yazılım Mülakatları
-* Complete C# Masterclass
+I also have experience with state management tools like:
 
-## 😄 Pronouns
-He/Him/His
+* ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+* ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
+* ![ReactQuery](https://img.shields.io/badge/-ReactQuery-black?style=flat-square&logo=reactquery)
+* ![SWR](https://img.shields.io/badge/-SWR-black?style=flat-square&logo=swr)
 
-## ✍️ Languages
-* English - Professional working proficiency
-* Turkish - Native speaker
+For styling, I often use:
 
-## 📈 My GitHub Stats
-![Egemen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sovereignofficial&show_icons=true&theme=radical)
+* ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+* ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialui)
+* ![ChakraUI](https://img.shields.io/badge/-ChakraUI-black?style=flat-square&logo=chakraui)
+* ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+* ![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styledcomponents)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🔗 Social Accounts
+* [GitHub](https://github.com/sovereignofficial)
+* [LinkedIn](https://www.linkedin.com/in/egemenakdan/)
+* [Facebook](https://www.facebook.com/profile.php?id=100073223918748)
+* [Blog](https://bento.me/sovereignofficial/)
 
-## 📚 Latest Courses
-<!-- COURSE-LIST:START -->
-<!-- COURSE-LIST:END -->
-
-## 💻 Projects
-<a href="https://github.com/sovereignofficial/reedee">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovereignofficial&repo=reedee&theme=radical" />
-</a>
-<a href="https://github.com/sovereignofficial/innsight.ai">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovereignofficial&repo=innsight.ai&theme=radical" />
-</a>
-<a href="https://github.com/sovereignofficial/movieverse">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sovereignofficial&repo=movieverse&theme=radical" />
-</a>
-
-## 🤝 Connect with me
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-## 📝 License
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+## 📈 GitHub Streaks
+![Egemen's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sovereignofficial&theme=dark&hide_border=true)
